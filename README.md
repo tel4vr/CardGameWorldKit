@@ -1,0 +1,2 @@
+# CardGameWorldKit
+VRChat用のCardGameWorldKitです。
